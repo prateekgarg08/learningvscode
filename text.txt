@@ -1,0 +1,1720 @@
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1940:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+
+Node.js v20.16.0
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1940:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+
+Node.js v20.16.0
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1940:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+
+Node.js v20.16.0
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'DNT',
+  '1',
+  'Sec-GPC',
+  '1',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Cookie',
+  'next-auth.csrf-token=6c64c3e76a3747964cf4311be99bccda7f56801ea2030ac7dc667bda9cef5825%7C2c45ed833e8c042e365a8034bb0250ceafc9716ee3b6e2919d60777805b5af2d; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3000
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1940:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+
+Node.js v20.16.0
+Trace: [
+  'Host',
+  'localhost:3000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3001
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3001',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: [
+  'Host',
+  'localhost:3001',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3001
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3001
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3001
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3001
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1940:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3001
+}
+
+Node.js v20.16.0
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1940:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3001
+}
+
+Node.js v20.16.0
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1940:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3001
+}
+
+Node.js v20.16.0
+Trace: [
+  'Host',
+  'localhost:3001',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3002',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3002',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-User',
+  '?1',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"',
+  'Priority',
+  'u=0, i'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3002',
+  'Connection',
+  'keep-alive',
+  'sec-ch-ua',
+  '"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"',
+  'sec-ch-ua-mobile',
+  '?0',
+  'sec-ch-ua-platform',
+  '"macOS"',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-User',
+  '?1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Accept-Language',
+  'en-GB,en-US;q=0.9,en;q=0.8',
+  'Cookie',
+  '_sp_id.1fff=7103f40f-43e7-49ae-bbf6-dd21580663b7.1727094094.1.1727094094..01e26d13-c088-49ee-9e8f-b446db9efa89....0'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3002',
+  'Connection',
+  'keep-alive',
+  'Cache-Control',
+  'max-age=0',
+  'sec-ch-ua',
+  '"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"',
+  'sec-ch-ua-mobile',
+  '?0',
+  'sec-ch-ua-platform',
+  '"macOS"',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-User',
+  '?1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Accept-Language',
+  'en-GB,en-US;q=0.9,en;q=0.8',
+  'Cookie',
+  '_sp_id.1fff=7103f40f-43e7-49ae-bbf6-dd21580663b7.1727094094.1.1727094094..01e26d13-c088-49ee-9e8f-b446db9efa89....0',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3002',
+  'Connection',
+  'keep-alive',
+  'Cache-Control',
+  'max-age=0',
+  'sec-ch-ua',
+  '"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"',
+  'sec-ch-ua-mobile',
+  '?0',
+  'sec-ch-ua-platform',
+  '"macOS"',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-User',
+  '?1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Accept-Language',
+  'en-GB,en-US;q=0.9,en;q=0.8',
+  'Cookie',
+  '_sp_id.1fff=7103f40f-43e7-49ae-bbf6-dd21580663b7.1727094094.1.1727094094..01e26d13-c088-49ee-9e8f-b446db9efa89....0',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3002',
+  'Connection',
+  'keep-alive',
+  'Cache-Control',
+  'max-age=0',
+  'sec-ch-ua',
+  '"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"',
+  'sec-ch-ua-mobile',
+  '?0',
+  'sec-ch-ua-platform',
+  '"macOS"',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'Sec-Fetch-Site',
+  'cross-site',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-User',
+  '?1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Accept-Language',
+  'en-GB,en-US;q=0.9,en;q=0.8',
+  'Cookie',
+  '_sp_id.1fff=7103f40f-43e7-49ae-bbf6-dd21580663b7.1727094094.1.1727094094..01e26d13-c088-49ee-9e8f-b446db9efa89....0',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: Listening to port 3002
+    at Server.<anonymous> (/Users/prateekgarg/learn/helloworld/temp.js:12:11)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1947:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+Trace: [
+  'Host',
+  'localhost:3002',
+  'Connection',
+  'keep-alive',
+  'Cache-Control',
+  'max-age=0',
+  'sec-ch-ua',
+  '"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"',
+  'sec-ch-ua-mobile',
+  '?0',
+  'sec-ch-ua-platform',
+  '"macOS"',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'Sec-Fetch-Site',
+  'none',
+  'Sec-Fetch-Mode',
+  'navigate',
+  'Sec-Fetch-User',
+  '?1',
+  'Sec-Fetch-Dest',
+  'document',
+  'Accept-Encoding',
+  'gzip, deflate, br, zstd',
+  'Accept-Language',
+  'en-GB,en-US;q=0.9,en;q=0.8',
+  'Cookie',
+  '_sp_id.1fff=7103f40f-43e7-49ae-bbf6-dd21580663b7.1727094094.1.1727094094..01e26d13-c088-49ee-9e8f-b446db9efa89....0',
+  'If-None-Match',
+  'W/"b-Ck1VqNd45QIvq3AZd8XYQLvEhtA"'
+]
+    at /Users/prateekgarg/learn/helloworld/temp.js:7:11
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/prateekgarg/learn/helloworld/node_modules/.pnpm/express@4.21.0/node_modules/express/lib/router/layer.js:95:5)
